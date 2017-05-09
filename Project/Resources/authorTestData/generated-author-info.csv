@@ -1,0 +1,501 @@
+name,dept,area,count,adjustedcount,year
+A. Aldo Faisal,Imperial College London,robotics,1,0.333333333,2016
+A. E. Eiben,VU Amsterdam,ai,1,0.5,2007
+A. J. Field,Imperial College London,metrics,1,0.5,1986
+A. J. Kfoury,Boston University,act,1,1,1980
+A. J. Kfoury,Boston University,act,1,0.333333333,1990
+A. J. Kfoury,Boston University,log,1,0.333333333,1987
+A. J. Kfoury,Boston University,log,1,0.333333333,1988
+A. J. Kfoury,Boston University,log,1,0.333333333,1989
+A. J. Kfoury,Boston University,log,1,0.5,1990
+A. J. Kfoury,Boston University,log,1,0.5,1995
+A. J. Kfoury,Boston University,log,1,0.5,1999
+A. J. Kfoury,Boston University,plan,1,1,1980
+A. J. Kfoury,Boston University,plan,1,0.333333333,1988
+A. J. Kfoury,Boston University,plan,1,0.5,1999
+A. Jefferson Offutt,George Mason University,plan,1,0.5,1987
+A. Jefferson Offutt,George Mason University,soft,1,0.333333333,1993
+A. John Power,University of Bath,log,1,0.333333333,1995
+A. John Power,University of Bath,log,1,0.333333333,1997
+A. P. Wim Böhm,Colorado State University,arch,1,0.333333333,1991
+A. P. Wim Böhm,Colorado State University,arch,1,0.333333333,1992
+A. P. Wim Böhm,Colorado State University,arch,1,0.25,1993
+A. P. Wim Böhm,Colorado State University,hpc,1,0.5,1987
+A. Prasad Sistla,University of Illinois at Chicago,act,1,0.5,1982
+A. Prasad Sistla,University of Illinois at Chicago,act,1,0.333333333,1983
+A. Prasad Sistla,University of Illinois at Chicago,act,1,0.5,1984
+A. Prasad Sistla,University of Illinois at Chicago,log,2,1,1987
+A. Prasad Sistla,University of Illinois at Chicago,log,1,0.25,1990
+A. Prasad Sistla,University of Illinois at Chicago,log,1,0.5,1991
+A. Prasad Sistla,University of Illinois at Chicago,log,2,0.833333333,1993
+A. Prasad Sistla,University of Illinois at Chicago,log,1,0.5,1994
+A. Prasad Sistla,University of Illinois at Chicago,log,1,0.5,1995
+A. Prasad Sistla,University of Illinois at Chicago,log,2,1.5,1997
+A. Prasad Sistla,University of Illinois at Chicago,log,1,0.25,1998
+A. Prasad Sistla,University of Illinois at Chicago,log,1,0.5,2001
+A. Prasad Sistla,University of Illinois at Chicago,log,1,0.333333333,2008
+A. Prasad Sistla,University of Illinois at Chicago,log,1,0.333333333,2011
+A. Prasad Sistla,University of Illinois at Chicago,log,1,0.5,2016
+A. Prasad Sistla,University of Illinois at Chicago,mod,2,0.666666667,1994
+A. Prasad Sistla,University of Illinois at Chicago,mod,2,0.75,1995
+A. Prasad Sistla,University of Illinois at Chicago,mod,1,0.2,2009
+A. Prasad Sistla,University of Illinois at Chicago,nlp,1,0.2,2012
+A. Prasad Sistla,University of Illinois at Chicago,plan,1,0.333333333,1983
+A. Robert Calderbank,Duke University,act,1,0.2,2005
+A. Robert Calderbank,Duke University,comm,2,0.666666667,2006
+A. Robert Calderbank,Duke University,comm,2,0.5,2007
+A. Robert Calderbank,Duke University,comm,1,0.25,2009
+A. Robert Calderbank,Duke University,comm,1,0.25,2010
+A. Robert Calderbank,Duke University,mlmining,1,0.2,2012
+A. Robert Calderbank,Duke University,mlmining,1,0.166666667,2013
+A. Robert Calderbank,Duke University,mlmining,1,0.2,2014
+A. Robert Calderbank,Duke University,mlmining,1,0.25,2015
+A. Robert Calderbank,Duke University,vision,1,0.25,2015
+A. Udaya Shankar,University of Maryland - College Park,bed,1,1,1992
+A. Udaya Shankar,University of Maryland - College Park,comm,1,0.5,1988
+A. Udaya Shankar,University of Maryland - College Park,comm,1,0.5,1992
+A. Udaya Shankar,University of Maryland - College Park,comm,2,1,1994
+A. Udaya Shankar,University of Maryland - College Park,comm,1,0.25,1997
+A. Udaya Shankar,University of Maryland - College Park,metrics,1,0.25,1992
+A. Udaya Shankar,University of Maryland - College Park,metrics,1,0.5,1995
+A. Udaya Shankar,University of Maryland - College Park,mobile,1,0.2,2006
+A. Udaya Shankar,University of Maryland - College Park,sec,1,0.333333333,1991
+A. W. Roscoe,University of Oxford,log,1,0.142857143,2012
+A. W. Roscoe,University of Oxford,sec,1,1,1995
+Aaditeshwar Seth,IIT Delhi,mobile,1,0.2,2006
+Aaron Bobick,Georgia Institute of Technology,robotics,1,0.142857143,2012
+Aaron Bobick,Georgia Institute of Technology,robotics,1,0.25,2016
+Aaron C. Courville,University of Montreal,ai,1,0.25,2014
+Aaron C. Courville,University of Montreal,ai,1,0.2,2016
+Aaron C. Courville,University of Montreal,ai,2,0.285714286,2017
+Aaron C. Courville,University of Montreal,mlmining,1,0.5,2001
+Aaron C. Courville,University of Montreal,mlmining,1,0.333333333,2002
+Aaron C. Courville,University of Montreal,mlmining,1,0.25,2003
+Aaron C. Courville,University of Montreal,mlmining,1,0.333333333,2004
+Aaron C. Courville,University of Montreal,mlmining,2,0.7,2007
+Aaron C. Courville,University of Montreal,mlmining,1,0.333333333,2009
+Aaron C. Courville,University of Montreal,mlmining,2,0.666666667,2011
+Aaron C. Courville,University of Montreal,mlmining,1,0.333333333,2012
+Aaron C. Courville,University of Montreal,mlmining,2,0.45,2013
+Aaron C. Courville,University of Montreal,mlmining,1,0.125,2014
+Aaron C. Courville,University of Montreal,mlmining,2,0.291666667,2015
+Aaron C. Courville,University of Montreal,mlmining,3,0.533333333,2016
+Aaron C. Courville,University of Montreal,nlp,1,0.142857143,2016
+Aaron C. Courville,University of Montreal,robotics,1,0.333333333,2005
+Aaron C. Courville,University of Montreal,vision,1,0.2,2012
+Aaron C. Courville,University of Montreal,vision,1,0.142857143,2015
+Aaron Clauset,University of Colorado Boulder,act,1,0.25,2005
+Aaron Clauset,University of Colorado Boulder,ai,1,0.5,2015
+Aaron Clauset,University of Colorado Boulder,ir,1,0.333333333,2016
+Aaron F. Bobick,Georgia Institute of Technology,ai,1,0.5,1999
+Aaron F. Bobick,Georgia Institute of Technology,chi,1,0.333333333,1997
+Aaron F. Bobick,Georgia Institute of Technology,chi,1,0.2,1999
+Aaron F. Bobick,Georgia Institute of Technology,graph,1,0.2,2003
+Aaron F. Bobick,Georgia Institute of Technology,graph,1,0.25,2005
+Aaron F. Bobick,Georgia Institute of Technology,robotics,1,0.5,1989
+Aaron F. Bobick,Georgia Institute of Technology,robotics,1,0.2,2006
+Aaron F. Bobick,Georgia Institute of Technology,robotics,1,0.25,2009
+Aaron F. Bobick,Georgia Institute of Technology,robotics,1,0.333333333,2012
+Aaron F. Bobick,Georgia Institute of Technology,robotics,1,0.333333333,2013
+Aaron F. Bobick,Georgia Institute of Technology,robotics,1,0.25,2014
+Aaron F. Bobick,Georgia Institute of Technology,robotics,1,0.5,2015
+Aaron F. Bobick,Georgia Institute of Technology,vision,1,0.5,1991
+Aaron F. Bobick,Georgia Institute of Technology,vision,1,0.5,1994
+Aaron F. Bobick,Georgia Institute of Technology,vision,2,1,1995
+Aaron F. Bobick,Georgia Institute of Technology,vision,4,1.666666667,1997
+Aaron F. Bobick,Georgia Institute of Technology,vision,4,2,1998
+Aaron F. Bobick,Georgia Institute of Technology,vision,1,0.5,1999
+Aaron F. Bobick,Georgia Institute of Technology,vision,1,0.333333333,2000
+Aaron F. Bobick,Georgia Institute of Technology,vision,3,1.333333333,2001
+Aaron F. Bobick,Georgia Institute of Technology,vision,3,1.033333333,2004
+Aaron F. Bobick,Georgia Institute of Technology,vision,1,0.166666667,2005
+Aaron F. Bobick,Georgia Institute of Technology,vision,1,0.333333333,2006
+Aaron F. Bobick,Georgia Institute of Technology,vision,1,0.25,2007
+Aaron F. Bobick,Georgia Institute of Technology,vision,1,0.5,2014
+Aaron J. Elmore,University of Chicago,mod,1,0.25,2011
+Aaron J. Elmore,University of Chicago,mod,1,0.2,2012
+Aaron J. Elmore,University of Chicago,mod,1,0.166666667,2013
+Aaron J. Elmore,University of Chicago,mod,1,0.125,2014
+Aaron J. Elmore,University of Chicago,mod,1,0.166666667,2015
+Aaron J. Elmore,University of Chicago,mod,2,0.333333333,2016
+Aaron Leon Roth,University of Pennsylvania,act,1,0.166666667,2015
+Aaron Roth,University of Pennsylvania,act,2,0.583333333,2008
+Aaron Roth,University of Pennsylvania,act,3,0.95,2010
+Aaron Roth,University of Pennsylvania,act,1,0.25,2011
+Aaron Roth,University of Pennsylvania,act,1,0.5,2012
+Aaron Roth,University of Pennsylvania,act,2,0.833333333,2013
+Aaron Roth,University of Pennsylvania,act,3,1.033333333,2014
+Aaron Roth,University of Pennsylvania,act,1,0.25,2015
+Aaron Roth,University of Pennsylvania,act,4,1.033333333,2016
+Aaron Roth,University of Pennsylvania,ai,1,0.2,2015
+Aaron Roth,University of Pennsylvania,ai,1,0.333333333,2016
+Aaron Roth,University of Pennsylvania,mlmining,1,0.2,2014
+Aaron Roth,University of Pennsylvania,mlmining,1,0.166666667,2015
+Aaron Roth,University of Pennsylvania,mlmining,3,0.75,2016
+Aaron Roth,University of Pennsylvania,plan,1,0.166666667,2015
+Aaron Sidford,Stanford University,act,2,0.75,2013
+Aaron Sidford,Stanford University,act,3,0.95,2014
+Aaron Sidford,Stanford University,act,2,0.833333333,2015
+Aaron Sidford,Stanford University,act,3,0.616666667,2016
+Aaron Sidford,Stanford University,mlmining,1,0.25,2015
+Aaron Sidford,Stanford University,mlmining,3,0.592857143,2016
+Aaron Striegel,University of Notre Dame,comm,1,0.166666667,2016
+Aaron Striegel,University of Notre Dame,hpc,2,0.366666667,2005
+Aaron Striegel,University of Notre Dame,metrics,1,0.25,2015
+Aaron Striegel,University of Notre Dame,mobile,1,0.5,2013
+Aaron Stump,University of Iowa,log,1,0.25,2001
+Aaron Stump,University of Iowa,log,1,0.333333333,2002
+Aarti Gupta,Princeton University,ai,1,0.5,2007
+Aarti Gupta,Princeton University,bed,2,0.5,2009
+Aarti Gupta,Princeton University,da,1,0.5,1993
+Aarti Gupta,Princeton University,da,1,0.333333333,1996
+Aarti Gupta,Princeton University,da,1,0.333333333,1997
+Aarti Gupta,Princeton University,da,2,0.45,2001
+Aarti Gupta,Princeton University,da,2,0.45,2003
+Aarti Gupta,Princeton University,da,1,0.333333333,2004
+Aarti Gupta,Princeton University,da,1,0.333333333,2005
+Aarti Gupta,Princeton University,da,2,0.833333333,2006
+Aarti Gupta,Princeton University,da,1,0.333333333,2007
+Aarti Gupta,Princeton University,da,1,0.5,2008
+Aarti Gupta,Princeton University,log,1,0.5,1993
+Aarti Gupta,Princeton University,log,1,0.333333333,2004
+Aarti Gupta,Princeton University,log,3,0.75,2005
+Aarti Gupta,Princeton University,log,3,1.033333333,2006
+Aarti Gupta,Princeton University,log,2,0.5,2007
+Aarti Gupta,Princeton University,log,1,0.333333333,2009
+Aarti Gupta,Princeton University,plan,1,0.5,2007
+Aarti Gupta,Princeton University,plan,1,0.25,2010
+Aarti Gupta,Princeton University,soft,2,0.583333333,2008
+Aarti Gupta,Princeton University,soft,1,0.25,2009
+Aarti Gupta,Princeton University,soft,1,0.333333333,2011
+Aarti Gupta,Princeton University,soft,1,0.333333333,2012
+Aarti Gupta,Princeton University,soft,1,0.2,2013
+Aarti Gupta,Princeton University,soft,1,0.2,2015
+Aarti Gupta,Princeton University,soft,1,0.333333333,2016
+Aarti Singh,Carnegie Mellon University,ai,1,0.2,2015
+Aarti Singh,Carnegie Mellon University,ai,1,0.5,2016
+Aarti Singh,Carnegie Mellon University,comm,1,0.5,2012
+Aarti Singh,Carnegie Mellon University,mlmining,1,0.333333333,2008
+Aarti Singh,Carnegie Mellon University,mlmining,1,0.5,2010
+Aarti Singh,Carnegie Mellon University,mlmining,2,0.5,2011
+Aarti Singh,Carnegie Mellon University,mlmining,1,0.25,2012
+Aarti Singh,Carnegie Mellon University,mlmining,5,1.866666667,2013
+Aarti Singh,Carnegie Mellon University,mlmining,2,0.666666667,2015
+Aarti Singh,Carnegie Mellon University,mlmining,1,0.25,2016
+Aasa Feragen,DIKU,mlmining,1,0.2,2013
+Aasa Feragen,DIKU,vision,1,0.25,2011
+Aasa Feragen,DIKU,vision,1,0.333333333,2014
+Aasa Feragen,DIKU,vision,1,0.333333333,2015
+Abbas Edalat,Imperial College London,log,1,1,1994
+Abbas Edalat,Imperial College London,log,1,1,1995
+Abbas Edalat,Imperial College London,log,2,1.5,1996
+Abbas Edalat,Imperial College London,log,2,0.583333333,1997
+Abbas Edalat,Imperial College London,log,1,0.333333333,1998
+Abbas Edalat,Imperial College London,log,1,0.5,2002
+Abbas Edalat,Imperial College London,log,1,0.5,2005
+Abbas Edalat,Imperial College London,log,1,1,2007
+Abbas Edalat,Imperial College London,log,1,1,2008
+Abbas Edalat,Imperial College London,log,1,0.5,2014
+Abbas Edalat,Imperial College London,log,1,1,2015
+Abbas Edalat,Imperial College London,mlmining,1,1,2013
+Abdallah Saffidine,UNSW,ai,1,0.333333333,2011
+Abdallah Saffidine,UNSW,ai,1,0.333333333,2012
+Abdallah Saffidine,UNSW,ai,2,0.533333333,2013
+Abdallah Saffidine,UNSW,ai,1,0.333333333,2014
+Abdallah Saffidine,UNSW,ai,1,0.25,2016
+Abdelhakim Hafid,University of Montreal,hpc,1,0.333333333,1996
+Abdelsalam Helal,University of Florida,mod,1,0.0625,1997
+Abdeslam Boularias,Rutgers University,ai,2,0.5,2011
+Abdeslam Boularias,Rutgers University,ai,1,0.333333333,2014
+Abdeslam Boularias,Rutgers University,ai,2,0.424242424,2015
+Abdeslam Boularias,Rutgers University,mlmining,1,0.5,2009
+Abdeslam Boularias,Rutgers University,mlmining,1,0.5,2010
+Abdeslam Boularias,Rutgers University,mlmining,2,0.833333333,2012
+Abdeslam Boularias,Rutgers University,robotics,1,0.5,2010
+Abdeslam Boularias,Rutgers University,robotics,1,0.333333333,2011
+Abdeslam Boularias,Rutgers University,robotics,1,0.25,2015
+Abdol-Hossein Esfahanian,Michigan State University,mlmining,1,0.333333333,2009
+Abdou S. Youssef,George Washington University,ir,1,0.125,2016
+Abdou Youssef,George Washington University,arch,1,0.5,1990
+Abdullah Mueen,University of New Mexico,ir,1,0.2,2015
+Abdullah Mueen,University of New Mexico,mlmining,1,0.5,2010
+Abdullah Mueen,University of New Mexico,mlmining,1,0.333333333,2011
+Abdullah Mueen,University of New Mexico,mlmining,1,0.125,2012
+Abdullah Mueen,University of New Mexico,mod,1,0.333333333,2010
+Abdullah Uz Tansel,CUNY,mod,1,0.5,1985
+Abdullah Uz Tansel,CUNY,mod,1,0.5,1989
+Abedelaziz Mohaisen,University at Buffalo,comm,1,0.333333333,2011
+Abedelaziz Mohaisen,University at Buffalo,comm,1,0.25,2012
+Abedelaziz Mohaisen,University at Buffalo,metrics,1,0.333333333,2010
+Abhi Shelat,Northeastern University,act,2,0.625,2002
+Abhi Shelat,Northeastern University,act,1,0.333333333,2003
+Abhi Shelat,Northeastern University,act,1,0.333333333,2005
+Abhi Shelat,Northeastern University,act,1,0.333333333,2007
+Abhi Shelat,Northeastern University,act,1,0.5,2009
+Abhi Shelat,Northeastern University,ai,1,0.5,2004
+Abhi Shelat,Northeastern University,crypt,1,0.5,2005
+Abhi Shelat,Northeastern University,crypt,1,0.333333333,2006
+Abhi Shelat,Northeastern University,crypt,1,0.333333333,2007
+Abhi Shelat,Northeastern University,crypt,1,0.333333333,2008
+Abhi Shelat,Northeastern University,crypt,1,0.166666667,2009
+Abhi Shelat,Northeastern University,crypt,1,0.5,2011
+Abhi Shelat,Northeastern University,sec,1,0.333333333,2012
+Abhi Shelat,Northeastern University,sec,2,0.75,2013
+Abhi Shelat,Northeastern University,sec,2,0.45,2014
+Abhi Shelat,Northeastern University,sec,1,0.5,2015
+Abhi Shelat,Northeastern University,sec,3,0.783333333,2016
+Abhijeet Ghosh,Imperial College London,graph,1,0.125,2004
+Abhijeet Ghosh,Imperial College London,graph,1,0.2,2008
+Abhijeet Ghosh,Imperial College London,graph,1,0.2,2010
+Abhijeet Ghosh,Imperial College London,graph,1,0.166666667,2011
+Abhijeet Ghosh,Imperial College London,graph,1,0.142857143,2013
+Abhijeet Ghosh,Imperial College London,graph,1,0.142857143,2015
+Abhijeet Ghosh,Imperial College London,mlmining,1,0.333333333,2007
+Abhijeet Ghosh,Imperial College London,vision,1,0.25,2007
+Abhijeet Ghosh,Imperial College London,vision,1,0.25,2016
+Abhik Roychoudhury,National University of Singapore,bed,2,0.583333333,2004
+Abhik Roychoudhury,National University of Singapore,bed,1,0.25,2005
+Abhik Roychoudhury,National University of Singapore,bed,2,0.7,2009
+Abhik Roychoudhury,National University of Singapore,bed,2,0.7,2011
+Abhik Roychoudhury,National University of Singapore,bed,2,0.533333333,2013
+Abhik Roychoudhury,National University of Singapore,da,1,0.333333333,2003
+Abhik Roychoudhury,National University of Singapore,da,1,0.25,2006
+Abhik Roychoudhury,National University of Singapore,da,1,0.25,2009
+Abhik Roychoudhury,National University of Singapore,hpc,1,0.25,2004
+Abhik Roychoudhury,National University of Singapore,log,1,0.5,2001
+Abhik Roychoudhury,National University of Singapore,sec,1,0.333333333,2016
+Abhik Roychoudhury,National University of Singapore,soft,1,0.5,2002
+Abhik Roychoudhury,National University of Singapore,soft,1,0.5,2004
+Abhik Roychoudhury,National University of Singapore,soft,1,0.25,2006
+Abhik Roychoudhury,National University of Singapore,soft,1,0.333333333,2007
+Abhik Roychoudhury,National University of Singapore,soft,1,0.25,2009
+Abhik Roychoudhury,National University of Singapore,soft,1,0.25,2010
+Abhik Roychoudhury,National University of Singapore,soft,2,0.583333333,2011
+Abhik Roychoudhury,National University of Singapore,soft,2,0.583333333,2012
+Abhik Roychoudhury,National University of Singapore,soft,3,0.916666667,2013
+Abhik Roychoudhury,National University of Singapore,soft,1,0.25,2014
+Abhik Roychoudhury,National University of Singapore,soft,3,1.083333333,2015
+Abhik Roychoudhury,National University of Singapore,soft,3,0.833333333,2016
+Abhinav Gupta,Carnegie Mellon University,ai,1,0.04,2015
+Abhinav Gupta,Carnegie Mellon University,comm,1,0.333333333,2007
+Abhinav Gupta,Carnegie Mellon University,graph,1,0.25,2011
+Abhinav Gupta,Carnegie Mellon University,graph,1,0.2,2012
+Abhinav Gupta,Carnegie Mellon University,mlmining,1,0.333333333,2008
+Abhinav Gupta,Carnegie Mellon University,mlmining,1,0.25,2010
+Abhinav Gupta,Carnegie Mellon University,mlmining,1,0.25,2012
+Abhinav Gupta,Carnegie Mellon University,mlmining,1,0.333333333,2013
+Abhinav Gupta,Carnegie Mellon University,mod,1,0.125,2003
+Abhinav Gupta,Carnegie Mellon University,mod,1,0.125,2005
+Abhinav Gupta,Carnegie Mellon University,robotics,1,0.5,2016
+Abhinav Gupta,Carnegie Mellon University,vision,2,0.833333333,2007
+Abhinav Gupta,Carnegie Mellon University,vision,2,0.7,2008
+Abhinav Gupta,Carnegie Mellon University,vision,1,0.25,2009
+Abhinav Gupta,Carnegie Mellon University,vision,3,1.166666667,2010
+Abhinav Gupta,Carnegie Mellon University,vision,3,0.833333333,2011
+Abhinav Gupta,Carnegie Mellon University,vision,4,1,2012
+Abhinav Gupta,Carnegie Mellon University,vision,4,1.416666667,2013
+Abhinav Gupta,Carnegie Mellon University,vision,4,1.333333333,2014
+Abhinav Gupta,Carnegie Mellon University,vision,7,2.5,2015
+Abhinav Gupta,Carnegie Mellon University,vision,13,4.033333333,2016
+Abhiram G. Ranade,IIT Bombay,act,1,1,1987
+Abhiram G. Ranade,IIT Bombay,act,1,0.333333333,1994
+Abhiram G. Ranade,IIT Bombay,act,1,0.5,1999
+Abhiram G. Ranade,IIT Bombay,act,1,0.5,2000
+Abhiram G. Ranade,IIT Bombay,arch,1,0.5,1992
+Abhiram G. Ranade,IIT Bombay,hpc,1,0.333333333,1991
+Abhiram G. Ranade,IIT Bombay,hpc,2,1,1993
+Abhishek Bhattacharjee,Rutgers University,arch,1,0.5,2009
+Abhishek Bhattacharjee,Rutgers University,arch,1,0.5,2010
+Abhishek Bhattacharjee,Rutgers University,arch,2,0.45,2012
+Abhishek Bhattacharjee,Rutgers University,arch,1,1,2013
+Abhishek Bhattacharjee,Rutgers University,arch,1,0.333333333,2014
+Abhishek Bhattacharjee,Rutgers University,arch,1,0.25,2015
+Abhishek Bhattacharjee,Rutgers University,arch,1,0.25,2016
+Abhishek Bhattacharjee,Rutgers University,arch,2,1.5,2017
+Abhishek Chandra,University of Minnesota,hpc,1,0.25,2007
+Abhishek Chandra,University of Minnesota,hpc,1,0.333333333,2015
+Abhishek Chandra,University of Minnesota,hpc,1,0.333333333,2016
+Abhishek Chandra,University of Minnesota,ops,1,0.25,2000
+Abhishek Chandra,University of Minnesota,ops,1,0.5,2001
+Abhishek Jain,Johns Hopkins University,crypt,1,0.5,2015
+Abraham Bernstein,University of Zurich,ai,1,0.25,2016
+Abraham Bernstein,University of Zurich,ir,1,0.2,2008
+Abraham Bernstein,University of Zurich,ir,1,0.25,2015
+Abraham Bernstein,University of Zurich,mod,1,0.333333333,2008
+Abraham Bernstein,University of Zurich,soft,1,0.142857143,2009
+Abraham Bernstein,University of Zurich,soft,1,0.2,2010
+Abraham Silberschatz,Yale University,act,1,0.5,1979
+Abraham Silberschatz,Yale University,comm,1,0.166666667,2000
+Abraham Silberschatz,Yale University,comm,2,0.45,2001
+Abraham Silberschatz,Yale University,comm,1,0.2,2005
+Abraham Silberschatz,Yale University,comm,1,0.2,2008
+Abraham Silberschatz,Yale University,metrics,1,0.5,1996
+Abraham Silberschatz,Yale University,mlmining,1,0.5,1995
+Abraham Silberschatz,Yale University,mod,1,0.5,1980
+Abraham Silberschatz,Yale University,mod,2,0.666666667,1981
+Abraham Silberschatz,Yale University,mod,1,0.333333333,1982
+Abraham Silberschatz,Yale University,mod,1,0.5,1983
+Abraham Silberschatz,Yale University,mod,1,0.5,1985
+Abraham Silberschatz,Yale University,mod,2,1,1988
+Abraham Silberschatz,Yale University,mod,4,1.333333333,1990
+Abraham Silberschatz,Yale University,mod,1,0.333333333,1991
+Abraham Silberschatz,Yale University,mod,2,0.533333333,1992
+Abraham Silberschatz,Yale University,mod,1,0.333333333,1993
+Abraham Silberschatz,Yale University,mod,2,0.45,1994
+Abraham Silberschatz,Yale University,mod,4,1.333333333,1996
+Abraham Silberschatz,Yale University,mod,3,0.7,1997
+Abraham Silberschatz,Yale University,mod,1,0.333333333,1998
+Abraham Silberschatz,Yale University,mod,1,0.2,1999
+Abraham Silberschatz,Yale University,ops,2,0.4,1999
+Abraham Silberschatz,Yale University,ops,1,0.25,2000
+Abraham Silberschatz,Yale University,plan,1,0.5,1986
+Abram Hindle,University of Alberta,soft,1,0.2,2011
+Abram Hindle,University of Alberta,soft,1,0.2,2012
+Abram Hindle,University of Alberta,soft,1,0.166666667,2016
+Achille Pattavina,Politecnico di Milano,comm,1,1,1990
+Achille Pattavina,Politecnico di Milano,comm,1,0.333333333,1991
+Achille Pattavina,Politecnico di Milano,comm,2,0.833333333,1992
+Achille Pattavina,Politecnico di Milano,comm,1,0.5,1993
+Achille Pattavina,Politecnico di Milano,comm,1,0.5,1994
+Achille Pattavina,Politecnico di Milano,comm,1,0.333333333,1996
+Achille Pattavina,Politecnico di Milano,comm,1,0.5,1998
+Achille Pattavina,Politecnico di Milano,comm,1,0.5,1999
+Achille Pattavina,Politecnico di Milano,comm,1,0.5,2001
+Achille Pattavina,Politecnico di Milano,comm,2,0.533333333,2002
+Achille Pattavina,Politecnico di Milano,comm,1,0.5,2003
+Achille Pattavina,Politecnico di Milano,comm,1,0.5,2006
+Ada Gavrilovska,Georgia Institute of Technology,comm,1,0.2,2014
+Ada Gavrilovska,Georgia Institute of Technology,comm,1,0.5,2016
+Ada Gavrilovska,Georgia Institute of Technology,hpc,1,0.333333333,2001
+Ada Gavrilovska,Georgia Institute of Technology,ops,1,0.333333333,2016
+Adam A. Porter,University of Maryland - College Park,soft,1,0.25,1991
+Adam A. Porter,University of Maryland - College Park,soft,1,0.5,1994
+Adam A. Porter,University of Maryland - College Park,soft,1,0.25,1995
+Adam A. Porter,University of Maryland - College Park,soft,3,0.733333333,1997
+Adam A. Porter,University of Maryland - College Park,soft,1,0.2,1998
+Adam A. Porter,University of Maryland - College Park,soft,1,0.333333333,2000
+Adam A. Porter,University of Maryland - College Park,soft,1,0.5,2002
+Adam A. Porter,University of Maryland - College Park,soft,1,0.166666667,2004
+Adam A. Porter,University of Maryland - College Park,soft,2,0.342857143,2005
+Adam A. Porter,University of Maryland - College Park,soft,2,0.7,2010
+Adam A. Porter,University of Maryland - College Park,soft,1,0.333333333,2012
+Adam A. Porter,University of Maryland - College Park,soft,1,0.2,2016
+Adam Chlipala,Massachusetts Institute of Technology,log,1,0.5,2013
+Adam Chlipala,Massachusetts Institute of Technology,log,1,0.25,2015
+Adam Chlipala,Massachusetts Institute of Technology,ops,1,1,2010
+Adam Chlipala,Massachusetts Institute of Technology,ops,1,0.2,2014
+Adam Chlipala,Massachusetts Institute of Technology,ops,1,0.166666667,2015
+Adam Chlipala,Massachusetts Institute of Technology,ops,1,0.166666667,2016
+Adam Chlipala,Massachusetts Institute of Technology,plan,1,1,2007
+Adam Chlipala,Massachusetts Institute of Technology,plan,2,2,2010
+Adam Chlipala,Massachusetts Institute of Technology,plan,1,1,2011
+Adam Chlipala,Massachusetts Institute of Technology,plan,3,2.25,2015
+Adam Chlipala,Massachusetts Institute of Technology,plan,1,0.333333333,2016
+Adam Chlipala,Massachusetts Institute of Technology,plan,1,0.5,2017
+Adam Chlipala,Massachusetts Institute of Technology,soft,1,0.2,2004
+Adam D. Smith,Pennsylvania State University,act,2,0.533333333,2002
+Adam D. Smith,Pennsylvania State University,act,1,0.333333333,2003
+Adam D. Smith,Pennsylvania State University,act,1,0.5,2005
+Adam D. Smith,Pennsylvania State University,act,1,0.2,2006
+Adam D. Smith,Pennsylvania State University,act,3,1.583333333,2007
+Adam D. Smith,Pennsylvania State University,act,1,0.2,2008
+Adam D. Smith,Pennsylvania State University,act,2,0.75,2010
+Adam D. Smith,Pennsylvania State University,act,1,1,2011
+Adam D. Smith,Pennsylvania State University,act,2,0.583333333,2013
+Adam D. Smith,Pennsylvania State University,act,2,0.833333333,2014
+Adam D. Smith,Pennsylvania State University,act,2,0.7,2015
+Adam D. Smith,Pennsylvania State University,act,3,0.916666667,2016
+Adam D. Smith,Pennsylvania State University,crypt,2,0.583333333,2001
+Adam D. Smith,Pennsylvania State University,crypt,1,0.333333333,2003
+Adam D. Smith,Pennsylvania State University,crypt,1,0.333333333,2004
+Adam D. Smith,Pennsylvania State University,crypt,2,0.533333333,2005
+Adam D. Smith,Pennsylvania State University,crypt,2,0.583333333,2006
+Adam D. Smith,Pennsylvania State University,crypt,2,0.533333333,2008
+Adam D. Smith,Pennsylvania State University,crypt,1,0.333333333,2010
+Adam D. Smith,Pennsylvania State University,crypt,1,0.333333333,2011
+Adam D. Smith,Pennsylvania State University,crypt,1,0.333333333,2013
+Adam D. Smith,Pennsylvania State University,crypt,1,0.2,2016
+Adam D. Smith,Pennsylvania State University,mlmining,1,0.333333333,2008
+Adam D. Smith,Pennsylvania State University,mlmining,1,0.25,2010
+Adam D. Smith,Pennsylvania State University,mlmining,1,0.5,2013
+Adam D. Smith,Pennsylvania State University,mlmining,1,0.333333333,2015
+Adam D. Smith,Pennsylvania State University,mod,1,0.25,2011
+Adam Doupé,Arizona State University,sec,1,0.25,2011
+Adam Doupé,Arizona State University,sec,1,0.25,2012
+Adam Doupé,Arizona State University,sec,1,0.166666667,2013
+Adam Doupé,Arizona State University,sec,1,0.25,2016
+Adam Finkelstein,Princeton University,ai,1,0.333333333,1993
+Adam Finkelstein,Princeton University,graph,1,0.5,1994
+Adam Finkelstein,Princeton University,graph,1,0.333333333,1995
+Adam Finkelstein,Princeton University,graph,1,0.333333333,1996
+Adam Finkelstein,Princeton University,graph,1,0.2,1997
+Adam Finkelstein,Princeton University,graph,1,0.25,1998
+Adam Finkelstein,Princeton University,graph,1,0.333333333,1999
+Adam Finkelstein,Princeton University,graph,3,0.75,2000
+Adam Finkelstein,Princeton University,graph,2,0.222222222,2002
+Adam Finkelstein,Princeton University,graph,2,0.5,2003
+Adam Finkelstein,Princeton University,graph,1,0.2,2005
+Adam Finkelstein,Princeton University,graph,1,0.2,2007
+Adam Finkelstein,Princeton University,graph,3,0.785714286,2008
+Adam Finkelstein,Princeton University,graph,2,0.392857143,2009
+Adam Finkelstein,Princeton University,graph,1,0.25,2010
+Adam Finkelstein,Princeton University,graph,1,0.25,2012
+Adam Finkelstein,Princeton University,graph,2,0.45,2013
+Adam Finkelstein,Princeton University,graph,1,0.166666667,2014
+Adam Finkelstein,Princeton University,graph,1,0.2,2015
+Adam Finkelstein,Princeton University,graph,2,0.45,2016
+Adam Finkelstein,Princeton University,ir,1,0.333333333,2010
+Adam Finkelstein,Princeton University,sec,1,0.166666667,2009
+Adam Finkelstein,Princeton University,vis,1,0.2,2000
+Adam Finkelstein,Princeton University,vision,1,0.2,2002
+Adam Finkelstein,Princeton University,vision,1,0.25,2010
+Adam Finkelstein,Princeton University,vision,1,0.25,2015
+Adam J. Lee,University of Pittsburgh,chi,1,0.25,2014
+Adam J. Lee,University of Pittsburgh,chi,1,0.25,2015
+Adam J. Lee,University of Pittsburgh,sec,1,0.5,2006
+Adam J. Lee,University of Pittsburgh,sec,1,0.25,2016
+Adam Krzyzak,Concordia University,mlmining,1,0.5,1996
+Adam Krzyzak,Concordia University,mlmining,1,0.25,1998
+Adam Lopez,University of Edinburgh,nlp,1,0.166666667,2005
+Adam Lopez,University of Edinburgh,nlp,1,1,2007
+Adam Lopez,University of Edinburgh,nlp,3,1.5,2011
+Adam Lopez,University of Edinburgh,nlp,2,0.5,2013
+Adam Lopez,University of Edinburgh,nlp,2,0.833333333,2016
+Adam Morrison,Tel Aviv University,arch,1,0.5,2014
+Adam Morrison,Tel Aviv University,arch,1,0.5,2015
+Adam Morrison,Tel Aviv University,arch,2,0.666666667,2016
+Adam Morrison,Tel Aviv University,ops,1,0.25,2015
+Adam O'Neill,Georgetown University,crypt,1,0.333333333,2007
+Adam O'Neill,Georgetown University,crypt,2,0.583333333,2008
+Adam O'Neill,Georgetown University,crypt,1,0.25,2009
+Adam O'Neill,Georgetown University,crypt,2,0.666666667,2010
+Adam O'Neill,Georgetown University,crypt,2,0.666666667,2011
+Adam O'Neill,Georgetown University,crypt,2,0.5,2013
+Adam O'Neill,Georgetown University,mod,1,0.2,2015
+Adam O'Neill,Georgetown University,sec,1,0.25,2007
+Adam O'Neill,Georgetown University,sec,1,0.25,2016
+Adam R. Klivans,University of Texas at Austin,act,2,1,1999
+Adam R. Klivans,University of Texas at Austin,act,2,1,2001
+Adam R. Klivans,University of Texas at Austin,act,2,0.666666667,2002
+Adam R. Klivans,University of Texas at Austin,act,1,0.2,2004
+Adam R. Klivans,University of Texas at Austin,act,1,0.25,2005
+Adam R. Klivans,University of Texas at Austin,act,1,0.5,2006
+Adam R. Klivans,University of Texas at Austin,act,3,1,2008
+Adam R. Klivans,University of Texas at Austin,act,2,0.476190476,2010
+Adam R. Klivans,University of Texas at Austin,act,1,0.166666667,2011
+Adam R. Klivans,University of Texas at Austin,act,1,0.25,2012
+Adam R. Klivans,University of Texas at Austin,mlmining,1,0.25,2014
+Adam W. Bargteil,University of Maryland - Baltimore County,graph,1,0.333333333,2004
+Adam W. Bargteil,University of Maryland - Baltimore County,graph,1,0.25,2007
+Adam W. Bargteil,University of Maryland - Baltimore County,graph,1,0.25,2011
+Adam W. Bargteil,University of Maryland - Baltimore County,graph,2,0.75,2013
+Adam W. Bargteil,University of Maryland - Baltimore County,graph,1,0.25,2016
+Adam Wierman,California Institute of Technology,comm,1,0.333333333,2006
+Adam Wierman,California Institute of Technology,comm,2,0.666666667,2009
+Adam Wierman,California Institute of Technology,comm,1,0.25,2011
+Adam Wierman,California Institute of Technology,comm,1,0.333333333,2013
+Adam Wierman,California Institute of Technology,comm,1,0.166666667,2014
+Adam Wierman,California Institute of Technology,comm,1,0.25,2015
+Adam Wierman,California Institute of Technology,ir,1,0.333333333,2017
+Adam Wierman,California Institute of Technology,metrics,1,0.5,2003
+Mike Wientraub,Northeastern University,msd,1,1,2017

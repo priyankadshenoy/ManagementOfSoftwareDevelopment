@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<dblp>
+<proceedings key="abcd">
+	<volume>yong</volume>
+	<editor>mook kim</editor>
+	<ee>mkyong</ee>
+	<salary>100000</salary>
+<proceedings>
+	<volume>low</volume>
+	<editor>yin fong</editor>
+	<ee>fong fong</ee>
+	<salary>200000</salary>
+</proceedings>
+<proceerrdings>
+	<volume>low</volume>
+	<editor>yin fong</editor>
+	<ee>fong fong</ee>
+	<salary>200000</salary>
+</proceerrdings>
+</dblp>

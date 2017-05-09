@@ -1,0 +1,90 @@
+<?xml version="1.0"?>
+<dblp>
+<proceedings key="abcd">
+	<volume>yong</volume>
+	<editor>mook kim</editor>
+	<ee>mkyong</ee>
+	<salary>100000</salary>
+</proceedings><proceedings>
+	<volume>low</volume>
+	<editor>yin fong</editor>
+	<ee>fong fong</ee>
+	<salary>200000</salary>
+</proceedings>
+<proceerrdings>
+	<volume>low</volume>
+	<editor>yin fong</editor>
+	<ee>fong fong</ee>
+</proceerrdings>
+
+<article key="conf/oopsla/bnmk">
+	<author>low</author>
+	<author>high</author>
+	<title>ancd</title>
+	<conference>ghj</conference>
+	<journal>ghj</journal>
+	<volume>12</volume>
+	<ee>yin fong</ee>
+	<pages>123</pages>
+	<year>2000</year>
+	<crossref>123/123</crossref>
+	<booktitle>abcd</booktitle>
+</article>
+<article key="conf/oopsla/bnmk">
+	<author>low</author>
+	<author>high</author>
+	<title>ancd</title>
+	<conference>ghj</conference>
+	<journal>ghj</journal>
+	<volume>12</volume>
+	<ee>yin fong</ee>
+	<pages>123</pages>
+	<year>2000</year>
+	<crossref>123/123</crossref>
+	<booktitle>abcd</booktitle>
+</article>
+<article key="conf/ecoop/bnmk">
+	<author>low</author>
+	<author>high</author>
+	<title>ancd</title>
+	<conference>ghj</conference>
+	<journal>ghj</journal>
+	<volume>12</volume>
+	<ee>yin fong</ee>
+	<pages>123</pages>
+	<year>2000</year>
+	<crossref>123/123</crossref>
+	<booktitle>abcd</booktitle>
+</article>
+<article key="conf/pldi/bnmk">
+	<author>low</author>
+	<author>high</author>
+	<title>ancd</title>
+	<conference>ghj</conference>
+	<journal>ghj</journal>
+	<volume>12</volume>
+	<ee>yin fong</ee>
+	<pages>123</pages>
+	<year>2000</year>
+	<crossref>123/123</crossref>
+	<booktitle>abcd</booktitle>
+</article>
+<article key="conf/icfp/bnmk">
+	<author>low</author>
+	<author>high</author>
+	<title>ancd</title>
+	<conference>ghj</conference>
+	<journal>ghj</journal>
+	<volume>12</volume>
+	<ee>yin fong</ee>
+	<pages>123</pages>
+	<year>2000</year>
+	<crossref>123/123</crossref>
+	<booktitle>abcd</booktitle>
+</article>
+
+<www>
+<author>John</author>
+<cite>abcd</cite>cite>
+</www>
+</dblp>

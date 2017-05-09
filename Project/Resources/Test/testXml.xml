@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<dblp>
+<proceedings key="abcd">
+	<volume>yong</volume>
+	<editor>mook kim</editor>
+	<ee>mkyong</ee>
+	<salary>100000</salary>
+</proceedings><proceedings>
+	<volume>low</volume>
+	<editor>yin fong</editor>
+	<ee>fong fong</ee>
+	<title>200000</title>
+	<year>2009</year>
+	<isbn>90-09</isbn>
+	<booktitle>ConfTitle</booktitle>
+	<publisher>Springer</publisher>
+</proceedings>
+<proceerrdings>
+	<volume>low</volume>
+	<editor>yin fong</editor>
+	<ee>fong fong</ee>
+	<salary>200000</salary>
+</proceerrdings>
+</dblp>
