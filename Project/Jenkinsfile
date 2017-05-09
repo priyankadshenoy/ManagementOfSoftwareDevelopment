@@ -1,0 +1,29 @@
+pipeline {
+    agent any
+
+    stages {
+        stage('Build') {
+            steps {
+                echo 'Building..'
+                sh 'cd phase4/MSDProject && mvn clean'
+            }
+        }
+        stage('Test') {
+            steps {
+                echo 'Testing..'
+                sh 'cd phase4/MSDProject && mvn test'
+            }
+        }
+        stage('Deploy') {
+            steps {
+                echo 'Deploying....'
+            }
+        }
+    }
+	post {
+		always {
+			archive 'target/**/*.jar'
+			junit 'phase4/MSDProject/target/surefire-reports/**/*.xml'
+        }
+    }
+}
